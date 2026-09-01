@@ -290,7 +290,7 @@ else:
       + "\n".join(formatted_links)
   )
 
-readme_content = f"""# 🚀 MLSC Tier 2 DSA Tracker
+readme_content = f"""# 🚀 MLSC Tier 1 DSA Tracker
 
 > **Last Updated:** {today_display} (Auto-syncs every 2 hours)
 
