@@ -1,0 +1,123 @@
+Date,Occasion,Problems
+01-09,Day 1,Two Sum; Valid Anagram
+02-09,Day 2,Contains Duplicate; Best Time to Buy and Sell Stock
+03-09,Day 3,Majority Element; Move Zeroes
+04-09,Day 4,Single Number; Intersection of Two Arrays II
+05-09,Day 5,Plus One; Merge Sorted Array
+06-09,Sunday,HOLIDAY
+07-09,Day 6,Remove Duplicates from Sorted Array; Remove Element
+08-09,Day 7,Search Insert Position; Valid Palindrome
+09-09,Day 8,Reverse String; Reverse Integer
+10-09,Day 9,Palindrome Number; Roman to Integer
+11-09,Day 10,Integer to Roman; Longest Common Prefix
+12-09,Day 11,Find the Index of the First Occurrence in a String; Length of Last Word
+13-09,Sunday,HOLIDAY
+14-09,Ganesh Chaturthi,HOLIDAY
+15-09,Day 12,Add Binary; Sqrt(x)
+16-09,Day 13,Climbing Stairs; Pascal's Triangle
+17-09,Day 14,Pascal's Triangle II; Missing Number
+18-09,Day 15,Find All Numbers Disappeared in an Array; Third Maximum Number
+19-09,Day 16,Assign Cookies; Two Sum II - Input Array Is Sorted
+20-09,Sunday,HOLIDAY
+21-09,Day 17,Squares of a Sorted Array; Fibonacci Number
+22-09,Day 18,Ransom Note; First Unique Character in a String
+23-09,Day 19,Isomorphic Strings; Word Pattern
+24-09,Day 20,Happy Number; Excel Sheet Column Title
+25-09,Day 21,Excel Sheet Column Number; Power of Two
+26-09,Day 22,Power of Three; Power of Four
+27-09,Sunday,HOLIDAY
+28-09,Day 23,Ugly Number; Count Primes
+29-09,Day 24,Add Digits; Number of 1 Bits
+30-09,Day 25,Reverse Bits; Hamming Distance
+01-10,Day 26,Backspace String Compare; Find All Anagrams in a String
+02-10,Day 27,3Sum; 3Sum Closest
+03-10,Day 28,Container With Most Water; 4Sum
+04-10,Sunday,HOLIDAY
+05-10,Day 29,Sort Colors; Subarray Product Less Than K
+06-10,Day 30,Longest Substring Without Repeating Characters; Max Consecutive Ones III
+07-10,Day 31,Minimum Size Subarray Sum; Fruit Into Baskets
+08-10,Day 32,Longest Repeating Character Replacement; Boats to Save People
+09-10,Day 33,Permutation in String; Sort an Array
+10-10,Day 34,Reverse Linked List; Kth Largest Element in an Array
+11-10,Sunday,HOLIDAY
+12-10,Day 35,Merge Two Sorted Lists; Sliding Window Maximum
+13-10,Day 36,Linked List Cycle; Minimum Window Substring
+14-10,Day 37,Palindrome Linked List; Rotate Array
+15-10,Day 38,Remove Duplicates from Sorted List; Product of Array Except Self
+16-10,Day 39,Middle of the Linked List; Trapping Rain Water
+17-10,Day 40,Valid Parentheses; Subsets
+18-10,Sunday,HOLIDAY
+19-10,Day 41,Implement Queue using Stacks; Subsets II
+20-10,Dussehra,HOLIDAY
+21-10,Day 42,Implement Stack using Queues; Permutations
+22-10,Day 43,Min Stack; Permutations II
+23-10,Day 44,Add Two Numbers; Combinations
+24-10,Day 45,Backspace String Compare; Combination Sum
+25-10,Sunday,HOLIDAY
+26-10,Day 46,3Sum; Combination Sum II
+27-10,Day 47,Container With Most Water; Letter Combinations of a Phone Number
+28-10,Day 48,Sort Colors; Generate Parentheses
+29-10,Day 49,Longest Substring Without Repeating Characters; Word Search
+30-10,Day 50,Minimum Size Subarray Sum; Palindrome Partitioning
+31-10,Day 51,Longest Repeating Character Replacement; Combination Sum III
+01-11,Sunday,HOLIDAY
+02-11,Day 52,Binary Search; First Bad Version
+03-11,Day 53,Valid Perfect Square; Search in Rotated Sorted Array
+04-11,Day 54,Find Minimum in Rotated Sorted Array; Search a 2D Matrix
+05-11,Day 55,Search a 2D Matrix II; Find Peak Element
+06-11,Day 56,Koko Eating Bananas; Time Based Key-Value Store
+07-11,Dhanteras,HOLIDAY
+08-11,Diwali,HOLIDAY
+09-11,Bhai Dooj,HOLIDAY
+10-11,Day 57,Search in Rotated Sorted Array II; Find First and Last Position of Element in Sorted Array
+11-11,Day 58,Capacity To Ship Packages Within D Days; Find K Closest Elements
+12-11,Day 59,Median of Two Sorted Arrays; Maximum Depth of Binary Tree
+13-11,Day 60,Same Tree; Invert Binary Tree
+14-11,Day 61,Symmetric Tree; Path Sum
+15-11,Sunday,HOLIDAY
+16-11,Day 62,Balanced Binary Tree; Minimum Depth of Binary Tree
+17-11,Day 63,Binary Tree Preorder Traversal; Binary Tree Inorder Traversal
+18-11,Day 64,Binary Tree Postorder Traversal; Convert Sorted Array to Binary Search Tree
+19-11,Day 65,Range Sum of BST; Two Sum IV - Input is a BST
+20-11,Day 66,Diameter of Binary Tree; Merge Two Binary Trees
+21-11,Day 67,Binary Tree Level Order Traversal; Binary Tree Zigzag Level Order Traversal
+22-11,Sunday,HOLIDAY
+23-11,Day 68,Validate Binary Search Tree; Kth Smallest Element in a BST
+24-11,Day 69,Lowest Common Ancestor of a Binary Search Tree; Lowest Common Ancestor of a Binary Tree
+25-11,Day 70,Binary Tree Right Side View; Construct Binary Tree from Preorder and Inorder Traversal
+26-11,Day 71,Populating Next Right Pointers in Each Node; Flatten Binary Tree to Linked List
+27-11,Day 72,Path Sum II; Sum Root to Leaf Numbers
+28-11,Day 73,Delete Node in a BST; Insert into a Binary Search Tree
+29-11,Sunday,HOLIDAY
+30-11,Day 74,Binary Search Tree Iterator; Count Good Nodes in Binary Tree
+01-12,Day 75,Number of Islands; Max Area of Island
+02-12,Day 76,Flood Fill; Clone Graph
+03-12,Day 77,Course Schedule; Course Schedule II
+04-12,Day 78,Pacific Atlantic Water Flow; Median of Two Sorted Arrays
+05-12,Day 79,Surrounded Regions; Redundant Connection
+06-12,Sunday,HOLIDAY
+07-12,Day 80,Is Graph Bipartite?; 01 Matrix
+08-12,Day 81,Evaluate Division; Number of Provinces
+09-12,Day 82,Keys and Rooms; Trapping Rain Water
+10-12,Day 83,Unique Paths; Unique Paths II
+11-12,Day 84,Minimum Path Sum; Longest Common Subsequence
+12-12,Day 85,Edit Distance; Interleaving String
+13-12,Sunday,HOLIDAY
+14-12,Day 86,Target Sum; Merge k Sorted Lists
+15-12,Day 87,Longest Palindromic Subsequence; Maximal Square
+16-12,Day 88,Triangle; Out of Boundary Paths
+17-12,Day 89,Distinct Subsequences; Regular Expression Matching
+18-12,Day 90,Wildcard Matching; N-Queens
+19-12,Day 91,Task Scheduler; K Closest Points to Origin
+20-12,Sunday,HOLIDAY
+21-12,Day 92,Last Stone Weight; Kth Smallest Element in a Sorted Matrix
+22-12,Day 93,Find Median from Data Stream; Reorganize String
+23-12,Day 94,Ugly Number II; Sudoku Solver
+24-12,Day 95,Number of Islands; Max Area of Island
+25-12,Christmas,HOLIDAY
+26-12,Day 96,Flood Fill; Clone Graph
+27-12,Sunday,HOLIDAY
+28-12,Day 97,Course Schedule; Course Schedule II
+29-12,Day 98,Pacific Atlantic Water Flow; Word Search II
+30-12,Day 99,Surrounded Regions; Redundant Connection
+31-12,Day 100,Is Graph Bipartite?; 01 Matrix
