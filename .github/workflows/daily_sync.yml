@@ -1,0 +1,35 @@
+name: Update Team DSA Leaderboard
+
+on:
+  schedule:
+    # Runs every 2 hours + 9:00 PM IST (15:30 UTC) + 11:55 PM IST (18:25 UTC)
+    - cron: '0 */2 * * *'
+    - cron: '30 15 * * *'
+    - cron: '25 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Tracker Script & Email Reminder
+        env:
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
+        run: python track_team.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md daily_history.csv
+          git commit -m "Auto-update leaderboard & daily history [skip ci]" || exit 0
+          git push
