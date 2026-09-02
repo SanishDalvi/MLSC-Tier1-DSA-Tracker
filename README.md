@@ -1,6 +1,6 @@
 # 🚀 MLSC Tier 1 DSA Tracker
 
-> **Last Updated:** 02 Sep 2026, 09:47 AM IST (Auto-syncs every 2 hours)
+> **Last Updated:** 02 Sep 2026, 04:36 PM IST (Auto-syncs every 2 hours)
 
 ### 📅 Assigned Problems for Day 2 (02-09):
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -17,10 +17,10 @@
 | #4 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 12 |
 | #5 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 10 |
 | #6 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 6 |
-| #7 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 5 |
-| #8 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 3 |
-| #9 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | ❌ 0/2 (Pending) | 3 |
-| #10 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 0 | ❌ 0/2 (Pending) | 3 |
+| #7 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 2 | ⚠️ 1/2 (Partial) | 5 |
+| #8 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 5 |
+| #9 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 1 | ⚠️ 1/2 (Partial) | 4 |
+| #10 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 3 |
 | #11 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | ❌ 0/2 (Pending) | 2 |
 | #12 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | ❌ 0/2 (Pending) | 2 |
 | #13 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 0 | ❌ 0/2 (Pending) | 2 |
