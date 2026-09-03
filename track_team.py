@@ -1,5 +1,5 @@
 import csv
-from datetime import datetime, time
+from datetime import datetime, time, timedelta
 import email.message
 import json
 import os
@@ -137,7 +137,7 @@ Our DSA drive tracker noticed that you haven't solved any problems yet today on 
 Today's Assigned Problems:
 {problems_list}
 
-Remember: Consistency is key! Aim to finish before midnight.
+Remember: Consistency is key! Aim to finish before 2:00 AM.
 
 - MLSC DSA Drive Bot
 """)
@@ -184,13 +184,23 @@ def update_history_csv(target_date_str, occasion, daily_counts, members_list):
 members = load_members_from_csv(MEMBERS_CSV)
 schedule = load_schedule_from_csv(SCHEDULE_CSV)
 
-# IST Time Setup
+# IST Time Setup (Day rolls over at 2:00 AM IST)
 ist_tz = ZoneInfo("Asia/Kolkata")
 now_ist = datetime.now(ist_tz)
-midnight_ist = datetime.combine(now_ist.date(), time.min, tzinfo=ist_tz)
-midnight_epoch = int(midnight_ist.timestamp())
 
-today_str = now_ist.strftime("%d-%m")
+# If current time is between 12:00 AM and 1:59 AM, attribute to the previous calendar day
+if now_ist.hour < 2:
+  effective_date = (now_ist - timedelta(days=1)).date()
+else:
+  effective_date = now_ist.date()
+
+# Cutoff timestamp for "Today" starting at 2:00 AM IST
+cycle_start_ist = datetime.combine(
+    effective_date, time(hour=2, minute=0), tzinfo=ist_tz
+)
+cycle_start_epoch = int(cycle_start_ist.timestamp())
+
+today_str = effective_date.strftime("%d-%m")
 today_display = now_ist.strftime("%d %b %Y, %I:%M %p IST")
 
 today_entry = schedule.get(today_str, None)
@@ -205,6 +215,7 @@ else:
   occasion_name = today_entry["occasion"]
   assigned_problems = today_entry["problems"]
 
+# 9:00 PM IST email alert check (hour == 21)
 is_9pm_ist = now_ist.hour == 21
 
 member_stats = []
@@ -218,12 +229,14 @@ for name, info in members.items():
   solved_today_titles = set()
   for sub in submissions:
     sub_time = int(sub.get("timestamp", 0))
-    if sub_time >= midnight_epoch and "title" in sub:
+    # Count only unique problems solved since 2:00 AM IST of this cycle
+    if sub_time >= cycle_start_epoch and "title" in sub:
       solved_today_titles.add(sub["title"].strip().lower())
 
   total_solved_today = len(solved_today_titles)
   daily_counts_for_csv[name] = total_solved_today
 
+  # Check assigned drive problems
   if not is_holiday and assigned_problems:
     assigned_match_count = 0
     for prob in assigned_problems:
@@ -244,6 +257,7 @@ for name, info in members.items():
     else:
       status = f"❌ 0/{total_assigned} (Pending)"
 
+    # Trigger reminder if 0 solved today and it's around 9:00 PM IST
     if is_9pm_ist and total_solved_today == 0:
       send_reminder_email(member_email, name, assigned_problems, occasion_name)
   else:
@@ -290,9 +304,9 @@ else:
       + "\n".join(formatted_links)
   )
 
-readme_content = f"""# 🚀 MLSC Tier 1 DSA Tracker
+readme_content = f"""# 🚀 MLSC DSA Tracker
 
-> **Last Updated:** {today_display} (Auto-syncs every 2 hours)
+> **Last Updated:** {today_display} (Auto-syncs every 45 min)
 
 {schedule_header}
 
