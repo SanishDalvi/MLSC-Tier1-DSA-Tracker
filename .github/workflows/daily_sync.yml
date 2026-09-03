@@ -2,10 +2,12 @@ name: Update Team DSA Leaderboard
 
 on:
   schedule:
-    # Runs every 2 hours + 9:00 PM IST (15:30 UTC) + 11:55 PM IST (18:25 UTC)
-    - cron: '0 */2 * * *'
+    # 1. Runs at minute 0 and 45 of every hour
+    - cron: '0,45 * * * *'
+    # 2. Reminder at 9:00 PM IST (15:30 UTC)
     - cron: '30 15 * * *'
-    - cron: '25 18 * * *'
+    # 3. Final Day Snapshot at 1:55 AM IST (20:25 UTC), right before the 2 AM rollover
+    - cron: '25 20 * * *'
   workflow_dispatch:
 
 jobs:
@@ -30,6 +32,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md daily_history.csv
-          git commit -m "Auto-update leaderboard & daily history [skip ci]" || exit 0
-          git push
+          git add -A
+          git diff-index --quiet HEAD || (git commit -m "Auto-update leaderboard & daily history [skip ci]" && git push)
