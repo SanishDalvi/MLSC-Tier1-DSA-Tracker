@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 04 Sep 2026, 12:18 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 04 Sep 2026, 01:37 AM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 3 (03-09):
 - [Majority Element](https://leetcode.com/problems/majority-element/)
@@ -26,8 +26,8 @@
 | #13 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 2 | ✅ 2/2 (Complete) | 6 |
 | #14 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 2 | ✅ 2/2 (Complete) | 6 |
 | #15 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | ✅ 2/2 (Complete) | 6 |
-| #16 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 1 | ❌ 0/2 (Pending) | 5 |
-| #17 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 1 | ⚠️ 1/2 (Partial) | 5 |
+| #16 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 2 | ✅ 2/2 (Complete) | 6 |
+| #17 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 1 | ❌ 0/2 (Pending) | 5 |
 | #18 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | ❌ 0/2 (Pending) | 4 |
 | #19 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | ❌ 0/2 (Pending) | 3 |
 | #20 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | ❌ 0/2 (Pending) | 2 |
