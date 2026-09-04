@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 04 Sep 2026, 06:01 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 04 Sep 2026, 10:34 AM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 4 (04-09):
 - [Single Number](https://leetcode.com/problems/single-number/)
@@ -17,7 +17,7 @@
 | #4 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | ❌ 0/2 (Pending) | 14 |
 | #5 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 14 |
 | #6 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 13 |
-| #7 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 10 |
+| #7 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 2 | ⚠️ 1/2 (Partial) | 12 |
 | #8 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 8 |
 | #9 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | ❌ 0/2 (Pending) | 8 |
 | #10 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 7 |
