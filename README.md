@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 05 Sep 2026, 12:01 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 05 Sep 2026, 01:20 AM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 4 (04-09):
 - [Single Number](https://leetcode.com/problems/single-number/)
@@ -23,11 +23,11 @@
 | #10 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 3 | ✅ 2/2 (Complete) | 9 |
 | #11 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 2 | ⚠️ 1/2 (Partial) | 8 |
 | #12 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 2 | ✅ 2/2 (Complete) | 8 |
-| #13 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 7 |
-| #14 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 1 | ⚠️ 1/2 (Partial) | 7 |
-| #15 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 1 | ⚠️ 1/2 (Partial) | 7 |
-| #16 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 6 |
-| #17 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 1 | ❌ 0/2 (Pending) | 6 |
+| #13 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 3 | ❌ 0/2 (Pending) | 8 |
+| #14 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | ✅ 2/2 (Complete) | 8 |
+| #15 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 7 |
+| #16 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 1 | ⚠️ 1/2 (Partial) | 7 |
+| #17 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 6 |
 | #18 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | ❌ 0/2 (Pending) | 4 |
 | #19 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 1 | ❌ 0/2 (Pending) | 4 |
 | #20 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | ❌ 0/2 (Pending) | 2 |
