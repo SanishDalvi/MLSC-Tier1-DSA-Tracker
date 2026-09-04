@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 04 Sep 2026, 03:25 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 04 Sep 2026, 07:23 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 4 (04-09):
 - [Single Number](https://leetcode.com/problems/single-number/)
@@ -21,12 +21,12 @@
 | #8 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 8 |
 | #9 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | ❌ 0/2 (Pending) | 8 |
 | #10 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 7 |
-| #11 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 6 |
-| #12 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 0 | ❌ 0/2 (Pending) | 6 |
-| #13 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | ❌ 0/2 (Pending) | 6 |
-| #14 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 6 |
-| #15 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 6 |
-| #16 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 0 | ❌ 0/2 (Pending) | 6 |
+| #11 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 1 | ⚠️ 1/2 (Partial) | 7 |
+| #12 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 6 |
+| #13 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 0 | ❌ 0/2 (Pending) | 6 |
+| #14 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | ❌ 0/2 (Pending) | 6 |
+| #15 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 6 |
+| #16 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 6 |
 | #17 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 5 |
 | #18 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | ❌ 0/2 (Pending) | 4 |
 | #19 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | ❌ 0/2 (Pending) | 3 |
