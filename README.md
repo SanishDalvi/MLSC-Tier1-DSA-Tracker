@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 05 Sep 2026, 11:48 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 05 Sep 2026, 04:24 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 5 (05-09):
 - [Plus One](https://leetcode.com/problems/plus-one/)
@@ -19,10 +19,10 @@
 | #6 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 14 |
 | #7 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 13 |
 | #8 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 13 |
-| #9 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 12 |
-| #10 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 2 | ✅ 2/2 (Complete) | 12 |
-| #11 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 12 |
-| #12 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 12 |
+| #9 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 13 |
+| #10 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 12 |
+| #11 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 2 | ✅ 2/2 (Complete) | 12 |
+| #12 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 12 |
 | #13 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | ❌ 0/2 (Pending) | 10 |
 | #14 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 2 | ✅ 2/2 (Complete) | 9 |
 | #15 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | ❌ 0/2 (Pending) | 8 |
