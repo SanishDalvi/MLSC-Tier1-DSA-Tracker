@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 06 Sep 2026, 08:31 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 06 Sep 2026, 09:00 PM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Sunday)
 No mandatory problems scheduled for today.
@@ -27,9 +27,9 @@ No mandatory problems scheduled for today.
 | #15 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 2 | 🌴 Sunday | 10 |
 | #16 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 3 | 🌴 Sunday | 10 |
 | #17 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 0 | 🌴 Sunday | 10 |
-| #18 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 0 | 🌴 Sunday | 9 |
-| #19 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | 🌴 Sunday | 8 |
-| #20 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | 🌴 Sunday | 8 |
+| #18 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 1 | 🌴 Sunday | 9 |
+| #19 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 0 | 🌴 Sunday | 9 |
+| #20 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | 🌴 Sunday | 8 |
 | #21 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | 🌴 Sunday | 4 |
 | #22 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | 🌴 Sunday | 4 |
 | #23 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 0 | 🌴 Sunday | 4 |
