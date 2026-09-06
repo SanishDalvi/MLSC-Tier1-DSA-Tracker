@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 06 Sep 2026, 07:31 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 06 Sep 2026, 08:00 PM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Sunday)
 No mandatory problems scheduled for today.
@@ -14,7 +14,7 @@ No mandatory problems scheduled for today.
 | #2 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | 🌴 Sunday | 59 |
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | 🌴 Sunday | 47 |
 | #4 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | 🌴 Sunday | 29 |
-| #5 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 1 | 🌴 Sunday | 17 |
+| #5 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 2 | 🌴 Sunday | 18 |
 | #6 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 1 | 🌴 Sunday | 16 |
 | #7 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 1 | 🌴 Sunday | 15 |
 | #8 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 2 | 🌴 Sunday | 15 |
