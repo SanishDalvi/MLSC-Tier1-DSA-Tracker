@@ -2,13 +2,16 @@ name: Update Team DSA Leaderboard
 
 on:
   schedule:
-    # 1. Runs at minute 0 and 45 of every hour
-    - cron: '0,45 * * * *'
-    # 2. Reminder at 9:00 PM IST (15:30 UTC)
+    # Runs twice every hour offset from :00 (at minute :07 and :52 -> 45 min apart)
+    - cron: '7,52 * * * *'
+    # 9:00 PM IST (15:30 UTC) - Reminder trigger
     - cron: '30 15 * * *'
-    # 3. Final Day Snapshot at 1:55 AM IST (20:25 UTC), right before the 2 AM rollover
+    # 1:55 AM IST (20:25 UTC) - End-of-cycle snapshot
     - cron: '25 20 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -16,6 +19,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -32,5 +37,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -m "Auto-update leaderboard & daily history [skip ci]" && git push)
+          git add README.md daily_history.csv
+          if git diff --staged --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git commit -m "Auto-update leaderboard & daily history [skip ci]"
+            git pull --rebase origin main
+            git push
+          fi
