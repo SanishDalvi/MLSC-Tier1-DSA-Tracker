@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 06 Sep 2026, 02:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 06 Sep 2026, 02:31 PM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Sunday)
 No mandatory problems scheduled for today.
@@ -15,8 +15,8 @@ No mandatory problems scheduled for today.
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | 🌴 Sunday | 47 |
 | #4 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | 🌴 Sunday | 29 |
 | #5 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | 🌴 Sunday | 16 |
-| #6 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 1 | 🌴 Sunday | 15 |
-| #7 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | 🌴 Sunday | 15 |
+| #6 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 1 | 🌴 Sunday | 16 |
+| #7 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 1 | 🌴 Sunday | 15 |
 | #8 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 1 | 🌴 Sunday | 14 |
 | #9 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | 🌴 Sunday | 14 |
 | #10 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | 🌴 Sunday | 13 |
