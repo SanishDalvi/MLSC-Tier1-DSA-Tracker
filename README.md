@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 07 Sep 2026, 06:31 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 07 Sep 2026, 07:00 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 6 (07-09):
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
@@ -22,18 +22,18 @@
 | #9 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 14 |
 | #10 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 14 |
 | #11 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 13 |
-| #12 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 13 |
-| #13 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | ❌ 0/2 (Pending) | 12 |
-| #14 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | ✅ 2/2 (Complete) | 12 |
-| #15 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 11 |
-| #16 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 1 | ❌ 0/2 (Pending) | 11 |
-| #17 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 10 |
+| #12 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 3 | ✅ 2/2 (Complete) | 13 |
+| #13 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 13 |
+| #14 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | ❌ 0/2 (Pending) | 12 |
+| #15 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | ✅ 2/2 (Complete) | 12 |
+| #16 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 11 |
+| #17 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 1 | ⚠️ 1/2 (Partial) | 11 |
 | #18 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 0 | ❌ 0/2 (Pending) | 10 |
 | #19 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 0 | ❌ 0/2 (Pending) | 9 |
 | #20 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | ❌ 0/2 (Pending) | 8 |
 | #21 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | ❌ 0/2 (Pending) | 6 |
-| #22 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | ❌ 0/2 (Pending) | 4 |
-| #23 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 0 | ❌ 0/2 (Pending) | 4 |
+| #22 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 1 | ⚠️ 1/2 (Partial) | 5 |
+| #23 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | ❌ 0/2 (Pending) | 4 |
 | #24 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | ❌ 0/2 (Pending) | 2 |
 | #25 | **Pranav Narkhede** | [PranavN14](https://leetcode.com/PranavN14) | 0 | ❌ 0/2 (Pending) | 2 |
 | #26 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | ❌ 0/2 (Pending) | 2 |
