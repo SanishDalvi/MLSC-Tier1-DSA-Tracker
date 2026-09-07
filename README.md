@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 07 Sep 2026, 08:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 07 Sep 2026, 08:31 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 6 (07-09):
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
@@ -11,7 +11,7 @@
 ### 🏆 Team Leaderboard
 | Rank | Member | LeetCode Profile | Solved Today | Drive Status | Total All-Time Solved |
 | :---: | :--- | :--- | :---: | :--- | :---: |
-| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | ❌ 0/2 (Pending) | 126 |
+| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 1 | ⚠️ 1/2 (Partial) | 126 |
 | #2 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
 | #4 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 29 |
@@ -19,7 +19,7 @@
 | #6 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 16 |
 | #7 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 15 |
 | #8 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 15 |
-| #9 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 14 |
+| #9 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 1 | ⚠️ 1/2 (Partial) | 14 |
 | #10 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 14 |
 | #11 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 13 |
 | #12 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 3 | ✅ 2/2 (Complete) | 13 |
