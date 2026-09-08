@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 08 Sep 2026, 09:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 08 Sep 2026, 09:31 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 7 (08-09):
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
@@ -17,9 +17,9 @@
 | #4 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 29 |
 | #5 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 1 | ⚠️ 1/2 (Partial) | 19 |
 | #6 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 18 |
-| #7 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 17 |
-| #8 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 2 | ✅ 2/2 (Complete) | 17 |
-| #9 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 1 | ⚠️ 1/2 (Partial) | 17 |
+| #7 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 2 | ✅ 2/2 (Complete) | 18 |
+| #8 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 17 |
+| #9 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 2 | ✅ 2/2 (Complete) | 17 |
 | #10 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 16 |
 | #11 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 15 |
 | #12 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 14 |
