@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 09 Sep 2026, 10:31 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 09 Sep 2026, 11:00 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 8 (09-09):
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
@@ -15,7 +15,7 @@
 | #2 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
 | #4 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 2 | ✅ 2/2 (Complete) | 31 |
-| #5 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 1 | ⚠️ 1/2 (Partial) | 21 |
+| #5 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 2 | ✅ 2/2 (Complete) | 22 |
 | #6 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 2 | ✅ 2/2 (Complete) | 20 |
 | #7 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | ❌ 0/2 (Pending) | 19 |
 | #8 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 6 | ⚠️ 1/2 (Partial) | 19 |
@@ -23,11 +23,11 @@
 | #10 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | ✅ 2/2 (Complete) | 17 |
 | #11 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 17 |
 | #12 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 17 |
-| #13 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 2 | ✅ 2/2 (Complete) | 16 |
-| #14 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 2 | ✅ 2/2 (Complete) | 16 |
-| #15 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 15 |
-| #16 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 15 |
-| #17 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 14 |
+| #13 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 1 | ⚠️ 1/2 (Partial) | 16 |
+| #14 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 2 | ✅ 2/2 (Complete) | 16 |
+| #15 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 2 | ✅ 2/2 (Complete) | 16 |
+| #16 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 2 | ✅ 2/2 (Complete) | 16 |
+| #17 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 15 |
 | #18 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 1 | ⚠️ 1/2 (Partial) | 13 |
 | #19 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | ❌ 0/2 (Pending) | 12 |
 | #20 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | ❌ 0/2 (Pending) | 10 |
