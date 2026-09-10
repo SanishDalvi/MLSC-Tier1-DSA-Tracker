@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 10 Sep 2026, 07:22 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 10 Sep 2026, 07:31 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 9 (10-09):
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -17,7 +17,7 @@
 | #4 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 31 |
 | #5 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 22 |
 | #6 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 2 | ⚠️ 1/2 (Partial) | 21 |
-| #7 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 1 | ⚠️ 1/2 (Partial) | 20 |
+| #7 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 2 | ✅ 2/2 (Complete) | 20 |
 | #8 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | ❌ 0/2 (Pending) | 19 |
 | #9 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | ✅ 2/2 (Complete) | 19 |
 | #10 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 2 | ⚠️ 1/2 (Partial) | 18 |
