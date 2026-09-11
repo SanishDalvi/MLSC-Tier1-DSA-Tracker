@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 12 Sep 2026, 12:11 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 12 Sep 2026, 12:31 AM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 10 (11-09):
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
@@ -16,11 +16,11 @@
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
 | #4 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 32 |
 | #5 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 23 |
-| #6 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 21 |
-| #7 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 2 | ✅ 2/2 (Complete) | 21 |
-| #8 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 1 | ⚠️ 1/2 (Partial) | 20 |
-| #9 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 20 |
-| #10 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 1 | ⚠️ 1/2 (Partial) | 20 |
+| #6 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | ✅ 2/2 (Complete) | 21 |
+| #7 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 21 |
+| #8 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 2 | ✅ 2/2 (Complete) | 21 |
+| #9 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 1 | ⚠️ 1/2 (Partial) | 20 |
+| #10 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 20 |
 | #11 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 20 |
 | #12 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | ❌ 0/2 (Pending) | 19 |
 | #13 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 2 | ❌ 0/2 (Pending) | 18 |
