@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 12 Sep 2026, 06:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 12 Sep 2026, 06:31 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 11 (12-09):
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
@@ -16,8 +16,8 @@
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
 | #4 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 32 |
 | #5 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 23 |
-| #6 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 2 | ✅ 2/2 (Complete) | 23 |
-| #7 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 1 | ⚠️ 1/2 (Partial) | 22 |
+| #6 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | ✅ 2/2 (Complete) | 23 |
+| #7 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 2 | ✅ 2/2 (Complete) | 23 |
 | #8 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 21 |
 | #9 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 20 |
 | #10 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 20 |
