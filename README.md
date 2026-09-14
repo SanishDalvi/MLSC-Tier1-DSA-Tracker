@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 14 Sep 2026, 04:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 14 Sep 2026, 04:31 PM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Ganesh Chaturthi)
 No mandatory problems scheduled for today.
@@ -18,10 +18,10 @@ No mandatory problems scheduled for today.
 | #6 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | 🌴 Ganesh Chaturthi | 23 |
 | #7 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | 🌴 Ganesh Chaturthi | 23 |
 | #8 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | 🌴 Ganesh Chaturthi | 23 |
-| #9 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | 🌴 Ganesh Chaturthi | 22 |
-| #10 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | 🌴 Ganesh Chaturthi | 21 |
-| #11 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | 🌴 Ganesh Chaturthi | 20 |
-| #12 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 1 | 🌴 Ganesh Chaturthi | 20 |
+| #9 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 3 | 🌴 Ganesh Chaturthi | 22 |
+| #10 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | 🌴 Ganesh Chaturthi | 22 |
+| #11 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | 🌴 Ganesh Chaturthi | 21 |
+| #12 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | 🌴 Ganesh Chaturthi | 20 |
 | #13 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | 🌴 Ganesh Chaturthi | 19 |
 | #14 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | 🌴 Ganesh Chaturthi | 18 |
 | #15 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | 🌴 Ganesh Chaturthi | 18 |
@@ -31,8 +31,8 @@ No mandatory problems scheduled for today.
 | #19 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | 🌴 Ganesh Chaturthi | 13 |
 | #20 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | 🌴 Ganesh Chaturthi | 12 |
 | #21 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | 🌴 Ganesh Chaturthi | 12 |
-| #22 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 0 | 🌴 Ganesh Chaturthi | 9 |
-| #23 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | 🌴 Ganesh Chaturthi | 4 |
+| #22 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 6 | 🌴 Ganesh Chaturthi | 10 |
+| #23 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 0 | 🌴 Ganesh Chaturthi | 9 |
 | #24 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | 🌴 Ganesh Chaturthi | 3 |
 | #25 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | 🌴 Ganesh Chaturthi | 2 |
 | #26 | **Pranav Narkhede** | [PranavN14](https://leetcode.com/PranavN14) | 0 | 🌴 Ganesh Chaturthi | 2 |
