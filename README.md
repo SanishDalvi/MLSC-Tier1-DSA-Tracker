@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 15 Sep 2026, 12:00 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 15 Sep 2026, 12:31 AM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Ganesh Chaturthi)
 No mandatory problems scheduled for today.
@@ -24,9 +24,9 @@ No mandatory problems scheduled for today.
 | #12 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | 🌴 Ganesh Chaturthi | 20 |
 | #13 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 16 | 🌴 Ganesh Chaturthi | 20 |
 | #14 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | 🌴 Ganesh Chaturthi | 19 |
-| #15 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | 🌴 Ganesh Chaturthi | 18 |
-| #16 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | 🌴 Ganesh Chaturthi | 18 |
-| #17 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 0 | 🌴 Ganesh Chaturthi | 18 |
+| #15 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 1 | 🌴 Ganesh Chaturthi | 19 |
+| #16 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | 🌴 Ganesh Chaturthi | 18 |
+| #17 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | 🌴 Ganesh Chaturthi | 18 |
 | #18 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | 🌴 Ganesh Chaturthi | 17 |
 | #19 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 0 | 🌴 Ganesh Chaturthi | 14 |
 | #20 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | 🌴 Ganesh Chaturthi | 13 |
