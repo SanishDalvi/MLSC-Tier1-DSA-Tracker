@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 14 Sep 2026, 05:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 14 Sep 2026, 05:31 PM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Ganesh Chaturthi)
 No mandatory problems scheduled for today.
@@ -15,10 +15,10 @@ No mandatory problems scheduled for today.
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | 🌴 Ganesh Chaturthi | 47 |
 | #4 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | 🌴 Ganesh Chaturthi | 32 |
 | #5 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | 🌴 Ganesh Chaturthi | 25 |
-| #6 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | 🌴 Ganesh Chaturthi | 23 |
-| #7 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | 🌴 Ganesh Chaturthi | 23 |
-| #8 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | 🌴 Ganesh Chaturthi | 23 |
-| #9 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 3 | 🌴 Ganesh Chaturthi | 22 |
+| #6 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 4 | 🌴 Ganesh Chaturthi | 23 |
+| #7 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | 🌴 Ganesh Chaturthi | 23 |
+| #8 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | 🌴 Ganesh Chaturthi | 23 |
+| #9 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | 🌴 Ganesh Chaturthi | 23 |
 | #10 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | 🌴 Ganesh Chaturthi | 22 |
 | #11 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | 🌴 Ganesh Chaturthi | 21 |
 | #12 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | 🌴 Ganesh Chaturthi | 20 |
