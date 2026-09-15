@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 15 Sep 2026, 07:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 15 Sep 2026, 07:31 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 12 (15-09):
 - [Add Binary](https://leetcode.com/problems/add-binary/)
@@ -18,8 +18,8 @@
 | #5 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 25 |
 | #6 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 25 |
 | #7 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 25 |
-| #8 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 24 |
-| #9 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 1 | ⚠️ 1/2 (Partial) | 24 |
+| #8 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 2 | ✅ 2/2 (Complete) | 25 |
+| #9 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 24 |
 | #10 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 23 |
 | #11 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 21 |
 | #12 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 20 |
