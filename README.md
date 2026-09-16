@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 16 Sep 2026, 07:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 16 Sep 2026, 07:31 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 13 (16-09):
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
@@ -11,7 +11,7 @@
 ### 🏆 Team Leaderboard
 | Rank | Member | LeetCode Profile | Solved Today | Drive Status | Total All-Time Solved |
 | :---: | :--- | :--- | :---: | :--- | :---: |
-| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | ❌ 0/2 (Pending) | 134 |
+| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 1 | ⚠️ 1/2 (Partial) | 134 |
 | #2 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
 | #4 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 32 |
@@ -20,8 +20,8 @@
 | #7 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 25 |
 | #8 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 25 |
 | #9 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 25 |
-| #10 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 24 |
-| #11 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 2 | ✅ 2/2 (Complete) | 23 |
+| #10 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 3 | ✅ 2/2 (Complete) | 24 |
+| #11 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 24 |
 | #12 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 21 |
 | #13 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 21 |
 | #14 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | ❌ 0/2 (Pending) | 20 |
