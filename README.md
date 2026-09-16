@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 16 Sep 2026, 06:31 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 16 Sep 2026, 07:00 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 13 (16-09):
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
@@ -21,7 +21,7 @@
 | #8 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 25 |
 | #9 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 25 |
 | #10 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 24 |
-| #11 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 1 | ⚠️ 1/2 (Partial) | 22 |
+| #11 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 2 | ✅ 2/2 (Complete) | 23 |
 | #12 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 21 |
 | #13 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 21 |
 | #14 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | ❌ 0/2 (Pending) | 20 |
