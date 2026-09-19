@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 20 Sep 2026, 03:31 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 20 Sep 2026, 03:51 AM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Sunday)
 No mandatory problems scheduled for today.
@@ -35,8 +35,8 @@ No mandatory problems scheduled for today.
 | #23 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 0 | 🌴 Sunday | 9 |
 | #24 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | 🌴 Sunday | 4 |
 | #25 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | 🌴 Sunday | 2 |
-| #26 | **Pranav Narkhede** | [PranavN14](https://leetcode.com/PranavN14) | 0 | 🌴 Sunday | 2 |
-| #27 | **Radnyee Jagtap** | [Radnyee_Jagtap](https://leetcode.com/Radnyee_Jagtap) | 0 | 🌴 Sunday | 2 |
+| #26 | **Radnyee Jagtap** | [Radnyee_Jagtap](https://leetcode.com/Radnyee_Jagtap) | 0 | 🌴 Sunday | 2 |
+| #27 | **Pranav Narkhede** | [PranavN14](https://leetcode.com/PranavN14) | 0 | 🌴 Sunday | 0 |
 | #28 | **saumyaa** | [Saumyaa_2911](https://leetcode.com/Saumyaa_2911) | 0 | 🌴 Sunday | 0 |
 | #29 | **Devendra Adsure** | [DevendraAdsure](https://leetcode.com/DevendraAdsure) | 0 | 🌴 Sunday | 0 |
 | #30 | **Yash Bhagodia** | [yashbhagodia](https://leetcode.com/yashbhagodia) | 0 | 🌴 Sunday | 0 |
