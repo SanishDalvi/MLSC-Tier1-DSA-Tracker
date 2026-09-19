@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 19 Sep 2026, 10:31 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 19 Sep 2026, 11:00 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 16 (19-09):
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
@@ -23,8 +23,8 @@
 | #10 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 28 |
 | #11 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 28 |
 | #12 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 25 |
-| #13 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 4 | ❌ 0/2 (Pending) | 22 |
-| #14 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 21 |
+| #13 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 1 | ❌ 0/2 (Pending) | 22 |
+| #14 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 4 | ❌ 0/2 (Pending) | 22 |
 | #15 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | ❌ 0/2 (Pending) | 20 |
 | #16 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | ❌ 0/2 (Pending) | 19 |
 | #17 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 0 | ❌ 0/2 (Pending) | 19 |
