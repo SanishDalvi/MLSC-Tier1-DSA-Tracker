@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 19 Sep 2026, 05:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 19 Sep 2026, 05:31 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 16 (19-09):
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
@@ -16,7 +16,7 @@
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
 | #4 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 5 | ⚠️ 1/2 (Partial) | 36 |
 | #5 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 34 |
-| #6 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 3 | ⚠️ 1/2 (Partial) | 32 |
+| #6 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 4 | ✅ 2/2 (Complete) | 33 |
 | #7 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 31 |
 | #8 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 5 | ⚠️ 1/2 (Partial) | 30 |
 | #9 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 4 | ❌ 0/2 (Pending) | 28 |
