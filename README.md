@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 20 Sep 2026, 05:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 20 Sep 2026, 05:31 PM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Sunday)
 No mandatory problems scheduled for today.
@@ -13,14 +13,14 @@ No mandatory problems scheduled for today.
 | #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | 🌴 Sunday | 136 |
 | #2 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | 🌴 Sunday | 59 |
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | 🌴 Sunday | 47 |
-| #4 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | 🌴 Sunday | 38 |
+| #4 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 1 | 🌴 Sunday | 39 |
 | #5 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | 🌴 Sunday | 35 |
 | #6 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | 🌴 Sunday | 34 |
 | #7 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | 🌴 Sunday | 31 |
 | #8 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 2 | 🌴 Sunday | 30 |
 | #9 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | 🌴 Sunday | 30 |
-| #10 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | 🌴 Sunday | 28 |
-| #11 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | 🌴 Sunday | 28 |
+| #10 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | 🌴 Sunday | 29 |
+| #11 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | 🌴 Sunday | 28 |
 | #12 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | 🌴 Sunday | 25 |
 | #13 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | 🌴 Sunday | 22 |
 | #14 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | 🌴 Sunday | 22 |
