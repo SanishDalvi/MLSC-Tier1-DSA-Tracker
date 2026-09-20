@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 20 Sep 2026, 11:31 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 20 Sep 2026, 12:00 PM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Sunday)
 No mandatory problems scheduled for today.
@@ -17,8 +17,8 @@ No mandatory problems scheduled for today.
 | #5 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | 🌴 Sunday | 34 |
 | #6 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | 🌴 Sunday | 33 |
 | #7 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | 🌴 Sunday | 31 |
-| #8 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | 🌴 Sunday | 30 |
-| #9 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 1 | 🌴 Sunday | 29 |
+| #8 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 2 | 🌴 Sunday | 30 |
+| #9 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | 🌴 Sunday | 30 |
 | #10 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | 🌴 Sunday | 28 |
 | #11 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | 🌴 Sunday | 28 |
 | #12 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | 🌴 Sunday | 25 |
@@ -33,10 +33,10 @@ No mandatory problems scheduled for today.
 | #21 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | 🌴 Sunday | 12 |
 | #22 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | 🌴 Sunday | 12 |
 | #23 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 0 | 🌴 Sunday | 9 |
-| #24 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 1 | 🌴 Sunday | 5 |
-| #25 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | 🌴 Sunday | 2 |
-| #26 | **Pranav Narkhede** | [PranavN14](https://leetcode.com/PranavN14) | 0 | 🌴 Sunday | 2 |
-| #27 | **Radnyee Jagtap** | [Radnyee_Jagtap](https://leetcode.com/Radnyee_Jagtap) | 0 | 🌴 Sunday | 2 |
+| #24 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 2 | 🌴 Sunday | 6 |
+| #25 | **Pranav Narkhede** | [PranavN14](https://leetcode.com/PranavN14) | 0 | 🌴 Sunday | 2 |
+| #26 | **Radnyee Jagtap** | [Radnyee_Jagtap](https://leetcode.com/Radnyee_Jagtap) | 0 | 🌴 Sunday | 2 |
+| #27 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | 🌴 Sunday | 0 |
 | #28 | **saumyaa** | [Saumyaa_2911](https://leetcode.com/Saumyaa_2911) | 0 | 🌴 Sunday | 0 |
 | #29 | **Devendra Adsure** | [DevendraAdsure](https://leetcode.com/DevendraAdsure) | 0 | 🌴 Sunday | 0 |
 | #30 | **Yash Bhagodia** | [yashbhagodia](https://leetcode.com/yashbhagodia) | 0 | 🌴 Sunday | 0 |
