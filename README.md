@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 23 Sep 2026, 12:31 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 23 Sep 2026, 01:00 AM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 18 (22-09):
 - [Ransom Note](https://leetcode.com/problems/ransom-note/)
@@ -17,8 +17,8 @@
 | #4 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 2 | ✅ 2/2 (Complete) | 44 |
 | #5 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 2 | ✅ 2/2 (Complete) | 38 |
 | #6 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | ✅ 2/2 (Complete) | 37 |
-| #7 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 2 | ✅ 2/2 (Complete) | 34 |
-| #8 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 1 | ⚠️ 1/2 (Partial) | 34 |
+| #7 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 2 | ✅ 2/2 (Complete) | 35 |
+| #8 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 2 | ✅ 2/2 (Complete) | 34 |
 | #9 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 33 |
 | #10 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 32 |
 | #11 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 32 |
