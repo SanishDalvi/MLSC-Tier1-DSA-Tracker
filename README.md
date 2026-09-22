@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 22 Sep 2026, 11:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 22 Sep 2026, 11:31 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 18 (22-09):
 - [Ransom Note](https://leetcode.com/problems/ransom-note/)
@@ -15,8 +15,8 @@
 | #2 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
 | #4 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 2 | ✅ 2/2 (Complete) | 44 |
-| #5 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | ✅ 2/2 (Complete) | 37 |
-| #6 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 36 |
+| #5 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 2 | ✅ 2/2 (Complete) | 38 |
+| #6 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 2 | ✅ 2/2 (Complete) | 37 |
 | #7 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 2 | ✅ 2/2 (Complete) | 34 |
 | #8 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 33 |
 | #9 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 33 |
