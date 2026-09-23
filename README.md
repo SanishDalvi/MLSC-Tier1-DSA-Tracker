@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 23 Sep 2026, 04:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 23 Sep 2026, 04:31 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 19 (23-09):
 - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
@@ -17,14 +17,14 @@
 | #4 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 44 |
 | #5 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 2 | ✅ 2/2 (Complete) | 40 |
 | #6 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 37 |
-| #7 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 1 | ⚠️ 1/2 (Partial) | 35 |
+| #7 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 2 | ✅ 2/2 (Complete) | 36 |
 | #8 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 35 |
 | #9 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 33 |
 | #10 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 32 |
 | #11 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 32 |
 | #12 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 28 |
 | #13 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 24 |
-| #14 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 1 | ⚠️ 1/2 (Partial) | 23 |
+| #14 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 2 | ✅ 2/2 (Complete) | 24 |
 | #15 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 22 |
 | #16 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | ❌ 0/2 (Pending) | 20 |
 | #17 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | ❌ 0/2 (Pending) | 19 |
