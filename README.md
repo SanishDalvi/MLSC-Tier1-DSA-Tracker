@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 23 Sep 2026, 09:31 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 23 Sep 2026, 10:01 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 19 (23-09):
 - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
@@ -14,9 +14,9 @@
 | #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | ❌ 0/2 (Pending) | 139 |
 | #2 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #3 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
-| #4 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 44 |
+| #4 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 1 | ❌ 0/2 (Pending) | 45 |
 | #5 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 2 | ✅ 2/2 (Complete) | 40 |
-| #6 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 37 |
+| #6 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 1 | ⚠️ 1/2 (Partial) | 38 |
 | #7 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 2 | ✅ 2/2 (Complete) | 36 |
 | #8 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 35 |
 | #9 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 33 |
