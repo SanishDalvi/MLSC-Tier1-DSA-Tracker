@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 25 Sep 2026, 12:01 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 25 Sep 2026, 12:31 AM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 20 (24-09):
 - [Happy Number](https://leetcode.com/problems/happy-number/)
@@ -18,7 +18,7 @@
 | #5 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 40 |
 | #6 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 5 | ⚠️ 1/2 (Partial) | 40 |
 | #7 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 39 |
-| #8 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 1 | ⚠️ 1/2 (Partial) | 37 |
+| #8 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 2 | ✅ 2/2 (Complete) | 38 |
 | #9 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 34 |
 | #10 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 33 |
 | #11 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 32 |
