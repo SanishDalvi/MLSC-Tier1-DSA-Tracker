@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 02 Oct 2026, 03:31 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 02 Oct 2026, 04:00 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 27 (02-10):
 - [3Sum](https://leetcode.com/problems/3sum/)
@@ -15,29 +15,29 @@
 | #2 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #3 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 53 |
 | #4 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 1 | ❌ 0/2 (Pending) | 52 |
-| #5 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 50 |
-| #6 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
-| #7 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 41 |
-| #8 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 40 |
-| #9 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 38 |
-| #10 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 35 |
-| #11 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 30 |
-| #12 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 28 |
-| #13 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 26 |
-| #14 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | ❌ 0/2 (Pending) | 24 |
-| #15 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | ❌ 0/2 (Pending) | 20 |
-| #16 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | ❌ 0/2 (Pending) | 20 |
-| #17 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 0 | ❌ 0/2 (Pending) | 19 |
-| #18 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | ❌ 0/2 (Pending) | 16 |
-| #19 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 0 | ❌ 0/2 (Pending) | 14 |
-| #20 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | ❌ 0/2 (Pending) | 6 |
-| #21 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | ❌ 0/2 (Pending) | 2 |
-| #22 | **Pranav Narkhede** | [PranavN14](https://leetcode.com/PranavN14) | 0 | ❌ 0/2 (Pending) | 2 |
-| #23 | **Radnyee Jagtap** | [Radnyee_Jagtap](https://leetcode.com/Radnyee_Jagtap) | 0 | ❌ 0/2 (Pending) | 2 |
-| #24 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 0 |
-| #25 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 0 |
-| #26 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | ❌ 0/2 (Pending) | 0 |
-| #27 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 0 | ❌ 0/2 (Pending) | 0 |
+| #5 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 51 |
+| #6 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 50 |
+| #7 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
+| #8 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 41 |
+| #9 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 40 |
+| #10 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 38 |
+| #11 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 35 |
+| #12 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 30 |
+| #13 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 28 |
+| #14 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 26 |
+| #15 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 24 |
+| #16 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | ❌ 0/2 (Pending) | 24 |
+| #17 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | ❌ 0/2 (Pending) | 20 |
+| #18 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | ❌ 0/2 (Pending) | 20 |
+| #19 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 0 | ❌ 0/2 (Pending) | 19 |
+| #20 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | ❌ 0/2 (Pending) | 16 |
+| #21 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 0 | ❌ 0/2 (Pending) | 14 |
+| #22 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | ❌ 0/2 (Pending) | 12 |
+| #23 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 0 | ❌ 0/2 (Pending) | 9 |
+| #24 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | ❌ 0/2 (Pending) | 6 |
+| #25 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | ❌ 0/2 (Pending) | 2 |
+| #26 | **Pranav Narkhede** | [PranavN14](https://leetcode.com/PranavN14) | 0 | ❌ 0/2 (Pending) | 2 |
+| #27 | **Radnyee Jagtap** | [Radnyee_Jagtap](https://leetcode.com/Radnyee_Jagtap) | 0 | ❌ 0/2 (Pending) | 2 |
 | #28 | **saumyaa** | [Saumyaa_2911](https://leetcode.com/Saumyaa_2911) | 0 | ❌ 0/2 (Pending) | 0 |
 | #29 | **Devendra Adsure** | [DevendraAdsure](https://leetcode.com/DevendraAdsure) | 0 | ❌ 0/2 (Pending) | 0 |
 | #30 | **Yash Bhagodia** | [yashbhagodia](https://leetcode.com/yashbhagodia) | 0 | ❌ 0/2 (Pending) | 0 |
