@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 03 Oct 2026, 05:00 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 03 Oct 2026, 05:31 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 28 (03-10):
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -11,7 +11,7 @@
 ### 🏆 Team Leaderboard
 | Rank | Member | LeetCode Profile | Solved Today | Drive Status | Total All-Time Solved |
 | :---: | :--- | :--- | :---: | :--- | :---: |
-| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 1 | ❌ 0/2 (Pending) | 149 |
+| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 3 | ❌ 0/2 (Pending) | 150 |
 | #2 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #3 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 3 | ✅ 2/2 (Complete) | 57 |
 | #4 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 3 | ❌ 0/2 (Pending) | 56 |
