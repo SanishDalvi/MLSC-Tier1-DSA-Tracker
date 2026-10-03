@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 03 Oct 2026, 10:31 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 03 Oct 2026, 11:00 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 28 (03-10):
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -22,7 +22,7 @@
 | #9 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 1 | ❌ 0/2 (Pending) | 41 |
 | #10 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 38 |
 | #11 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 35 |
-| #12 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 30 |
+| #12 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 1 | ❌ 0/2 (Pending) | 31 |
 | #13 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 28 |
 | #14 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 26 |
 | #15 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 24 |
