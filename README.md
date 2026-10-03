@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 03 Oct 2026, 08:31 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 03 Oct 2026, 09:00 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 28 (03-10):
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -18,7 +18,7 @@
 | #5 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 53 |
 | #6 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 52 |
 | #7 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
-| #8 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 41 |
+| #8 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 42 |
 | #9 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 40 |
 | #10 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 38 |
 | #11 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 35 |
