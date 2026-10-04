@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 04 Oct 2026, 05:31 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 04 Oct 2026, 06:00 PM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Sunday)
 No mandatory problems scheduled for today.
@@ -22,8 +22,8 @@ No mandatory problems scheduled for today.
 | #10 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | 🌴 Sunday | 38 |
 | #11 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | 🌴 Sunday | 35 |
 | #12 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | 🌴 Sunday | 31 |
-| #13 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | 🌴 Sunday | 28 |
-| #14 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | 🌴 Sunday | 26 |
+| #13 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 2 | 🌴 Sunday | 28 |
+| #14 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | 🌴 Sunday | 28 |
 | #15 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | 🌴 Sunday | 24 |
 | #16 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | 🌴 Sunday | 24 |
 | #17 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | 🌴 Sunday | 20 |
@@ -33,7 +33,7 @@ No mandatory problems scheduled for today.
 | #21 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 0 | 🌴 Sunday | 14 |
 | #22 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | 🌴 Sunday | 12 |
 | #23 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 0 | 🌴 Sunday | 9 |
-| #24 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 1 | 🌴 Sunday | 7 |
+| #24 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 2 | 🌴 Sunday | 8 |
 | #25 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | 🌴 Sunday | 2 |
 | #26 | **Pranav Narkhede** | [PranavN14](https://leetcode.com/PranavN14) | 0 | 🌴 Sunday | 2 |
 | #27 | **Radnyee Jagtap** | [Radnyee_Jagtap](https://leetcode.com/Radnyee_Jagtap) | 0 | 🌴 Sunday | 2 |
