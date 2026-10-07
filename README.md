@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 07 Oct 2026, 02:52 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 07 Oct 2026, 10:33 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 31 (07-10):
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
@@ -11,14 +11,14 @@
 ### 🏆 Team Leaderboard
 | Rank | Member | LeetCode Profile | Solved Today | Drive Status | Total All-Time Solved |
 | :---: | :--- | :--- | :---: | :--- | :---: |
-| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | ❌ 0/2 (Pending) | 154 |
+| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 2 | ✅ 2/2 (Complete) | 156 |
 | #2 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 65 |
 | #3 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 60 |
 | #4 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #5 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 57 |
-| #6 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 53 |
+| #6 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 2 | ❌ 0/2 (Pending) | 55 |
 | #7 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
-| #8 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 45 |
+| #8 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 46 |
 | #9 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 44 |
 | #10 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 38 |
 | #11 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 35 |
