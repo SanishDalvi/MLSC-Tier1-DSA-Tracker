@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 10 Oct 2026, 08:48 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 11 Oct 2026, 12:54 AM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 34 (10-10):
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
@@ -11,7 +11,7 @@
 ### 🏆 Team Leaderboard
 | Rank | Member | LeetCode Profile | Solved Today | Drive Status | Total All-Time Solved |
 | :---: | :--- | :--- | :---: | :--- | :---: |
-| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | ❌ 0/2 (Pending) | 157 |
+| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 1 | ❌ 0/2 (Pending) | 158 |
 | #2 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 68 |
 | #3 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 63 |
 | #4 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
@@ -38,7 +38,7 @@
 | #25 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | ❌ 0/2 (Pending) | 2 |
 | #26 | **Pranav Narkhede** | [PranavN14](https://leetcode.com/PranavN14) | 0 | ❌ 0/2 (Pending) | 2 |
 | #27 | **Radnyee Jagtap** | [Radnyee_Jagtap](https://leetcode.com/Radnyee_Jagtap) | 0 | ❌ 0/2 (Pending) | 2 |
-| #28 | **saumyaa** | [Saumyaa_2911](https://leetcode.com/Saumyaa_2911) | 0 | ❌ 0/2 (Pending) | 0 |
-| #29 | **Devendra Adsure** | [DevendraAdsure](https://leetcode.com/DevendraAdsure) | 0 | ❌ 0/2 (Pending) | 0 |
+| #28 | **Devendra Adsure** | [DevendraAdsure](https://leetcode.com/DevendraAdsure) | 1 | ❌ 0/2 (Pending) | 1 |
+| #29 | **saumyaa** | [Saumyaa_2911](https://leetcode.com/Saumyaa_2911) | 0 | ❌ 0/2 (Pending) | 0 |
 | #30 | **Yash Bhagodia** | [yashbhagodia](https://leetcode.com/yashbhagodia) | 0 | ❌ 0/2 (Pending) | 0 |
 | #31 | **Kashvi Patki** | [kashvi19](https://leetcode.com/kashvi19) | 0 | ❌ 0/2 (Pending) | 0 |
