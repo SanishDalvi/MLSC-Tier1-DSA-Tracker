@@ -1,10 +1,10 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 13 Oct 2026, 12:53 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 13 Oct 2026, 04:02 AM IST (Auto-syncs every 45 min)
 
-### 📅 Assigned Problems for Day 35 (12-10):
-- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+### 📅 Assigned Problems for Day 36 (13-10):
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 ---
 
@@ -12,15 +12,15 @@
 | Rank | Member | LeetCode Profile | Solved Today | Drive Status | Total All-Time Solved |
 | :---: | :--- | :--- | :---: | :--- | :---: |
 | #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | ❌ 0/2 (Pending) | 158 |
-| #2 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 2 | ❌ 0/2 (Pending) | 70 |
+| #2 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 70 |
 | #3 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 66 |
 | #4 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #5 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 57 |
 | #6 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 55 |
-| #7 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 51 |
+| #7 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 51 |
 | #8 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | ❌ 0/2 (Pending) | 47 |
 | #9 | **Mahesh Shirame** | [mahesh_shirame](https://leetcode.com/mahesh_shirame) | 0 | ❌ 0/2 (Pending) | 44 |
-| #10 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 8 | ❌ 0/2 (Pending) | 43 |
+| #10 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | ❌ 0/2 (Pending) | 43 |
 | #11 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 38 |
 | #12 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 36 |
 | #13 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 30 |
