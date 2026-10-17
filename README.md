@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 17 Oct 2026, 09:41 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 17 Oct 2026, 02:21 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 40 (17-10):
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
@@ -33,7 +33,7 @@
 | #20 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 0 | ❌ 0/2 (Pending) | 19 |
 | #21 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 0 | ❌ 0/2 (Pending) | 14 |
 | #22 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | ❌ 0/2 (Pending) | 12 |
-| #23 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | ❌ 0/2 (Pending) | 10 |
+| #23 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 2 | ❌ 0/2 (Pending) | 12 |
 | #24 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 0 | ❌ 0/2 (Pending) | 9 |
 | #25 | **Tejal Jadhav** | [Tejal_J](https://leetcode.com/Tejal_J) | 0 | ❌ 0/2 (Pending) | 2 |
 | #26 | **Pranav Narkhede** | [PranavN14](https://leetcode.com/PranavN14) | 0 | ❌ 0/2 (Pending) | 2 |
