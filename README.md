@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 20 Oct 2026, 08:53 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 21 Oct 2026, 12:56 AM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Dussehra)
 No mandatory problems scheduled for today.
@@ -10,11 +10,11 @@ No mandatory problems scheduled for today.
 ### 🏆 Team Leaderboard
 | Rank | Member | LeetCode Profile | Solved Today | Drive Status | Total All-Time Solved |
 | :---: | :--- | :--- | :---: | :--- | :---: |
-| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | 🌴 Dussehra | 159 |
+| #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 1 | 🌴 Dussehra | 160 |
 | #2 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | 🌴 Dussehra | 75 |
 | #3 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | 🌴 Dussehra | 66 |
 | #4 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | 🌴 Dussehra | 59 |
-| #5 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | 🌴 Dussehra | 58 |
+| #5 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | 🌴 Dussehra | 59 |
 | #6 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | 🌴 Dussehra | 57 |
 | #7 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | 🌴 Dussehra | 55 |
 | #8 | **Aditya Chandrajit Deore** | [Aditya_deore_](https://leetcode.com/Aditya_deore_) | 0 | 🌴 Dussehra | 47 |
