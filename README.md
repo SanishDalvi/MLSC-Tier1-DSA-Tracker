@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 20 Oct 2026, 06:13 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 20 Oct 2026, 10:53 AM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Dussehra)
 No mandatory problems scheduled for today.
@@ -30,7 +30,7 @@ No mandatory problems scheduled for today.
 | #18 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | 🌴 Dussehra | 20 |
 | #19 | **Isha Thakur** | [ishathakur12](https://leetcode.com/ishathakur12) | 0 | 🌴 Dussehra | 20 |
 | #20 | **Vaishnavi Marne** | [vaishnavi_marne1208](https://leetcode.com/vaishnavi_marne1208) | 0 | 🌴 Dussehra | 19 |
-| #21 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | 🌴 Dussehra | 15 |
+| #21 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 1 | 🌴 Dussehra | 16 |
 | #22 | **Srushti Gaikwad** | [MourningShadow97](https://leetcode.com/MourningShadow97) | 0 | 🌴 Dussehra | 14 |
 | #23 | **Anjali Borse** | [Anjali_Borse27](https://leetcode.com/Anjali_Borse27) | 0 | 🌴 Dussehra | 12 |
 | #24 | **Rishabh Prabhu** | [Cassiopeia999](https://leetcode.com/Cassiopeia999) | 0 | 🌴 Dussehra | 9 |
