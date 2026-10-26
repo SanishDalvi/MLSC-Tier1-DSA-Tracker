@@ -1,10 +1,10 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 26 Oct 2026, 11:09 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 27 Oct 2026, 02:09 AM IST (Auto-syncs every 45 min)
 
-### 📅 Assigned Problems for Day 46 (26-10):
-- [3Sum](https://leetcode.com/problems/3sum/)
-- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+### 📅 Assigned Problems for Day 47 (27-10):
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
 ---
 
@@ -26,7 +26,7 @@
 | #13 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 30 |
 | #14 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 28 |
 | #15 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | ❌ 0/2 (Pending) | 26 |
-| #16 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 2 | ❌ 0/2 (Pending) | 25 |
+| #16 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | ❌ 0/2 (Pending) | 25 |
 | #17 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 24 |
 | #18 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | ❌ 0/2 (Pending) | 24 |
 | #19 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | ❌ 0/2 (Pending) | 20 |
