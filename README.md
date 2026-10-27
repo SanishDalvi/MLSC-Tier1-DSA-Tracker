@@ -1,10 +1,10 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 28 Oct 2026, 01:39 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 28 Oct 2026, 04:24 AM IST (Auto-syncs every 45 min)
 
-### 📅 Assigned Problems for Day 47 (27-10):
-- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+### 📅 Assigned Problems for Day 48 (28-10):
+- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
 ---
 
@@ -14,7 +14,7 @@
 | #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | ❌ 0/2 (Pending) | 160 |
 | #2 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 90 |
 | #3 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 66 |
-| #4 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 65 |
+| #4 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 65 |
 | #5 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #6 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 57 |
 | #7 | **Parth Popli** | [Parth_Popli](https://leetcode.com/Parth_Popli) | 0 | ❌ 0/2 (Pending) | 55 |
@@ -26,7 +26,7 @@
 | #13 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 30 |
 | #14 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 28 |
 | #15 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | ❌ 0/2 (Pending) | 26 |
-| #16 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 1 | ❌ 0/2 (Pending) | 26 |
+| #16 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | ❌ 0/2 (Pending) | 26 |
 | #17 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 24 |
 | #18 | **Palash Kurkute** | [Palash_1o6_](https://leetcode.com/Palash_1o6_) | 0 | ❌ 0/2 (Pending) | 24 |
 | #19 | **Gaurav Dhurve** | [Gaurav_D99](https://leetcode.com/Gaurav_D99) | 0 | ❌ 0/2 (Pending) | 20 |
