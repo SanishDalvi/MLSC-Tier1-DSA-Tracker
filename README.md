@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 31 Oct 2026, 06:35 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 31 Oct 2026, 12:25 PM IST (Auto-syncs every 45 min)
 
 ### 📅 Assigned Problems for Day 51 (31-10):
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
@@ -24,7 +24,7 @@
 | #11 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | ❌ 0/2 (Pending) | 38 |
 | #12 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | ❌ 0/2 (Pending) | 36 |
 | #13 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | ❌ 0/2 (Pending) | 30 |
-| #14 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | ❌ 0/2 (Pending) | 29 |
+| #14 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 1 | ❌ 0/2 (Pending) | 30 |
 | #15 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | ❌ 0/2 (Pending) | 28 |
 | #16 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | ❌ 0/2 (Pending) | 26 |
 | #17 | **Prem Thakur** | [premthakur002](https://leetcode.com/premthakur002) | 0 | ❌ 0/2 (Pending) | 24 |
