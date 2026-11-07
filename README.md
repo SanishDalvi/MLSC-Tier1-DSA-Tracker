@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 07 Nov 2026, 06:48 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 07 Nov 2026, 01:19 PM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Dhanteras)
 No mandatory problems scheduled for today.
@@ -22,7 +22,7 @@ No mandatory problems scheduled for today.
 | #10 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | 🌴 Dhanteras | 43 |
 | #11 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | 🌴 Dhanteras | 38 |
 | #12 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | 🌴 Dhanteras | 36 |
-| #13 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | 🌴 Dhanteras | 34 |
+| #13 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 1 | 🌴 Dhanteras | 35 |
 | #14 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | 🌴 Dhanteras | 30 |
 | #15 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | 🌴 Dhanteras | 28 |
 | #16 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | 🌴 Dhanteras | 26 |
