@@ -1,6 +1,6 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 08 Nov 2026, 07:23 AM IST (Auto-syncs every 45 min)
+> **Last Updated:** 08 Nov 2026, 02:23 PM IST (Auto-syncs every 45 min)
 
 ### 🌴 Rest / Holiday Day (Diwali)
 No mandatory problems scheduled for today.
@@ -12,7 +12,7 @@ No mandatory problems scheduled for today.
 | :---: | :--- | :--- | :---: | :--- | :---: |
 | #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | 🌴 Diwali | 160 |
 | #2 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | 🌴 Diwali | 90 |
-| #3 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | 🌴 Diwali | 76 |
+| #3 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | 🌴 Diwali | 77 |
 | #4 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | 🌴 Diwali | 66 |
 | #5 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | 🌴 Diwali | 59 |
 | #6 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | 🌴 Diwali | 57 |
@@ -22,7 +22,7 @@ No mandatory problems scheduled for today.
 | #10 | **Saksham Jagtap** | [saksham3006](https://leetcode.com/saksham3006) | 0 | 🌴 Diwali | 43 |
 | #11 | **Aditya Rajput** | [aditya_r08](https://leetcode.com/aditya_r08) | 0 | 🌴 Diwali | 38 |
 | #12 | **Sharvari Deshmukh** | [Dsharvari](https://leetcode.com/Dsharvari) | 0 | 🌴 Diwali | 36 |
-| #13 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 0 | 🌴 Diwali | 35 |
+| #13 | **Khushi Kolhe** | [kkhushi16](https://leetcode.com/kkhushi16) | 1 | 🌴 Diwali | 36 |
 | #14 | **Chaitanya Jadhav** | [chaitanya_jadhav07](https://leetcode.com/chaitanya_jadhav07) | 0 | 🌴 Diwali | 30 |
 | #15 | **Ved Jadhav** | [Ved_Jadhav](https://leetcode.com/Ved_Jadhav) | 0 | 🌴 Diwali | 28 |
 | #16 | **Amruta Thakare** | [amruta_thakare](https://leetcode.com/amruta_thakare) | 0 | 🌴 Diwali | 26 |
