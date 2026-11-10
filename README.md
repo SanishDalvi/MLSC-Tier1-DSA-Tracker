@@ -1,10 +1,10 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 10 Nov 2026, 10:07 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 11 Nov 2026, 02:51 AM IST (Auto-syncs every 45 min)
 
-### 📅 Assigned Problems for Day 57 (10-11):
-- [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+### 📅 Assigned Problems for Day 58 (11-11):
+- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
 ---
 
@@ -13,7 +13,7 @@
 | :---: | :--- | :--- | :---: | :--- | :---: |
 | #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | ❌ 0/2 (Pending) | 160 |
 | #2 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 90 |
-| #3 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 79 |
+| #3 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 79 |
 | #4 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 66 |
 | #5 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #6 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 57 |
