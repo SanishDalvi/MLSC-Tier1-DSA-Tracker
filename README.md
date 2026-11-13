@@ -1,10 +1,10 @@
 # 🚀 MLSC DSA Tracker
 
-> **Last Updated:** 13 Nov 2026, 09:12 PM IST (Auto-syncs every 45 min)
+> **Last Updated:** 14 Nov 2026, 02:58 AM IST (Auto-syncs every 45 min)
 
-### 📅 Assigned Problems for Day 60 (13-11):
-- [Same Tree](https://leetcode.com/problems/same-tree/)
-- [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+### 📅 Assigned Problems for Day 61 (14-11):
+- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [Path Sum](https://leetcode.com/problems/path-sum/)
 
 ---
 
@@ -13,7 +13,7 @@
 | :---: | :--- | :--- | :---: | :--- | :---: |
 | #1 | **Sanika Shinde** | [Sanika2506](https://leetcode.com/Sanika2506) | 0 | ❌ 0/2 (Pending) | 160 |
 | #2 | **Deesha Kalantri** | [deesha_kalantri23](https://leetcode.com/deesha_kalantri23) | 0 | ❌ 0/2 (Pending) | 90 |
-| #3 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 1 | ❌ 0/2 (Pending) | 81 |
+| #3 | **Akshay Pote** | [Akshay_712](https://leetcode.com/Akshay_712) | 0 | ❌ 0/2 (Pending) | 81 |
 | #4 | **shivanshi bakshi** | [shivanshibakshi](https://leetcode.com/shivanshibakshi) | 0 | ❌ 0/2 (Pending) | 66 |
 | #5 | **Apurv Sagare** | [johnsnow70](https://leetcode.com/johnsnow70) | 0 | ❌ 0/2 (Pending) | 59 |
 | #6 | **Aryan Patil** | [CDR_aryanPatil](https://leetcode.com/CDR_aryanPatil) | 0 | ❌ 0/2 (Pending) | 57 |
